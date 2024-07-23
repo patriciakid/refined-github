@@ -8,8 +8,7 @@
 	"formatter": {
 		"enabled": true,
 		"formatWithErrors": true,
-		"indentStyle": "tab",
-		"attributePosition": "auto"
+		"indentStyle": "tab"
 	},
 	"javascript": {
 		"formatter": {
